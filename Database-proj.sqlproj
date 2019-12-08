@@ -68,5 +68,6 @@
     <Build Include="Table8.sql" />
     <Build Include="Table9.sql" />
     <Build Include="Table10.sql" />
+    <Build Include="Table11.sql" />
   </ItemGroup>
 </Project>
