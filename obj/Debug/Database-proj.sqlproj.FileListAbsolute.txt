@@ -7,3 +7,12 @@ C:\Users\vinod\source\repos\Database-proj\obj\Debug\postdeploy.sql
 C:\Users\vinod\source\repos\Database-proj\obj\Debug\predeploy.sql
 C:\Users\vinod\source\repos\Database-proj\obj\Debug\Database_proj.dll
 C:\Users\vinod\source\repos\Database-proj\obj\Debug\Database_proj.pdb
+C:\Users\vinod\Source\Repos\AzureSQL-CI-CD\bin\Debug\Database-proj.dacpac
+C:\Users\vinod\Source\Repos\AzureSQL-CI-CD\bin\Debug\Database_proj.dll
+C:\Users\vinod\Source\Repos\AzureSQL-CI-CD\bin\Debug\Database_proj.pdb
+C:\Users\vinod\Source\Repos\AzureSQL-CI-CD\obj\Debug\Model.xml
+C:\Users\vinod\Source\Repos\AzureSQL-CI-CD\obj\Debug\refactor.xml
+C:\Users\vinod\Source\Repos\AzureSQL-CI-CD\obj\Debug\postdeploy.sql
+C:\Users\vinod\Source\Repos\AzureSQL-CI-CD\obj\Debug\predeploy.sql
+C:\Users\vinod\Source\Repos\AzureSQL-CI-CD\obj\Debug\Database_proj.dll
+C:\Users\vinod\Source\Repos\AzureSQL-CI-CD\obj\Debug\Database_proj.pdb
